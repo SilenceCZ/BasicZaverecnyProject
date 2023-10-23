@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{67BAE63B-9F89-4E3F-83EC-F1D3303916AD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EvidencePojisteni PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvidencePojisteni/Program.cs">
+    <Files>
+      <File FileName="EvidencePojisteni/Databaze.cs" Line="1" Column="1" />
+      <File FileName="EvidencePojisteni/Evidence.cs" Line="1" Column="1" />
+      <File FileName="EvidencePojisteni/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EvidencePojisteni" expanded="True">
+            <Node name="EvidencePojisteni" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
